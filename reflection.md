@@ -1,0 +1,4 @@
+So for my development process I first started with creating the basic html files with a frame. The frame conisted of a basic title, some metadata, a footer and the section for where the main went.
+After creating the frame I pasted it into each basic html file and customized the title.
+From there I uploaded my resume to ChatGPT and the instructions for the assignment and asked it to add content to each of the mains for each file. Using chatGPT's code I added in the main sections for each file, expect for the climbing.html file. For that one I just did it by hand.
+I then made sure that the files met the criteria of the assignment. Throughout as I edited files I checked out individual files and pushed them to the remote repository. At the end I also synced all the files in this folder to the linux server at DU. And that was pretty much it.
